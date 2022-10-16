@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Peaqock/static/css/main.4b83921c.css",
+    "main.js": "/Peaqock/static/js/main.99c7de38.js",
+    "static/media/hero__background.jpg": "/Peaqock/static/media/hero__background.2b35e650db77da02189d.jpg",
+    "static/media/about.png": "/Peaqock/static/media/about.e43d21e2cc20a1c5b760.png",
+    "static/media/services.png": "/Peaqock/static/media/services.9ce7b6feb81b0fc71d3a.png",
+    "static/media/bg__services.png": "/Peaqock/static/media/bg__services.1ee1c00f95486bea9a4e.png",
+    "index.html": "/Peaqock/index.html",
+    "main.4b83921c.css.map": "/Peaqock/static/css/main.4b83921c.css.map",
+    "main.99c7de38.js.map": "/Peaqock/static/js/main.99c7de38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b83921c.css",
+    "static/js/main.99c7de38.js"
+  ]
+}
