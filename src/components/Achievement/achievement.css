@@ -1,0 +1,14 @@
+.achivement{
+    background-color: #F7F8FC;
+
+}
+.achivement__nbr{
+    color: var(--main-color);
+    font-weight: 900;
+    font-size: var(--h1-font-size);
+}
+
+.achievement__text{
+    font-size: var(--small-font-size);
+    color: var(--light-gray-color);
+} 
